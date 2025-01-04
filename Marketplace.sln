@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace", "Marketplace\Marketplace.csproj", "{C5C879FD-2F00-4494-B704-97A292652C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Test", "Marketplace.Test\Marketplace.Test.csproj", "{410D20C5-E055-4144-AA46-53B08F4073C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Domain", "Marketplace.Domain\Marketplace.Domain.csproj", "{EEAB636E-12AD-4BA2-99DC-F036DB0F541E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C879FD-2F00-4494-B704-97A292652C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C879FD-2F00-4494-B704-97A292652C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C879FD-2F00-4494-B704-97A292652C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C879FD-2F00-4494-B704-97A292652C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410D20C5-E055-4144-AA46-53B08F4073C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410D20C5-E055-4144-AA46-53B08F4073C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410D20C5-E055-4144-AA46-53B08F4073C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410D20C5-E055-4144-AA46-53B08F4073C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAB636E-12AD-4BA2-99DC-F036DB0F541E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAB636E-12AD-4BA2-99DC-F036DB0F541E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAB636E-12AD-4BA2-99DC-F036DB0F541E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAB636E-12AD-4BA2-99DC-F036DB0F541E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
