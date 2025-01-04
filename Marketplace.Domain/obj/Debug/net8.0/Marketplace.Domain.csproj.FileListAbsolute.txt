@@ -1,0 +1,12 @@
+D:\Workspace\Marketplace\Marketplace.Domain\bin\Debug\net8.0\Marketplace.Domain.deps.json
+D:\Workspace\Marketplace\Marketplace.Domain\bin\Debug\net8.0\Marketplace.Domain.dll
+D:\Workspace\Marketplace\Marketplace.Domain\bin\Debug\net8.0\Marketplace.Domain.pdb
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfoInputs.cache
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.AssemblyInfo.cs
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.sourcelink.json
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.dll
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\refint\Marketplace.Domain.dll
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\Marketplace.Domain.pdb
+D:\Workspace\Marketplace\Marketplace.Domain\obj\Debug\net8.0\ref\Marketplace.Domain.dll
